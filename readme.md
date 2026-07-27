@@ -16,11 +16,8 @@ This repository provides drivers that are compatible with many generic/OEM 80mm 
 
 This repository may include:
 
-- XPrinter Driver
-- ESC/POS Driver
-- Universal Driver
-- Installation Guide
-- Additional utilities (if available)
+- XPrinter Universal Driver
+- README
 
 ## 🚀 Installation
 
