@@ -28,7 +28,7 @@ This repository may include:
 2. Extract the ZIP file.
 3. Run the installer.
 4. Connect your printer.
-5. Select the correct driver.
+5. Select the correct com/usb port.
 6. Test print to verify the Auto Cutter works.
 
 ## ⚠️ Disclaimer
